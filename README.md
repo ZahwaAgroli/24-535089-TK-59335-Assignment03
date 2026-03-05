@@ -12,9 +12,9 @@
 
 ## Solutions Description
 
-- **problem2.cpp (DynArray):** Implements a procedural resizable array using a plain `struct DynArray` with 8 free functions (`initArray`, `freeArray`, `pushBack`, `insertAt`, `removeAt`, `getAt`, `setAt`, `printDynArr`). Initial capacity = 2, doubles automatically when full. Each function is annotated with its time complexity.
-- **problem3.cpp (Linear & Binary Search):** Implements `linearSearch`, iterative `binarySearch`, and `generateSortedArray` which produces `{0, 2, 4, ..., 2(n-1)}`. Tested on n = 10, 100, 1000 for both existing and non-existing targets, with both algorithms confirmed to return matching results.
-- **Analysis.pdf (Written Analysis):** Contains Problem 1 Snippet A, B, and C (step-by-step T(n) derivation, Big-O classification, and best/worst case analysis for each snippet), Problem 3B (complexity comparison table and proof that minimum n = 3), and Problem 4 (12-call amortized trace, geometric series derivation for doubling vs arithmetic series for fixed-increment).
+- **Problem 2 (DynArray):** Implements a procedural resizable array using a plain `struct DynArray` with 8 free functions (`initArray`, `freeArray`, `pushBack`, `insertAt`, `removeAt`, `getAt`, `setAt`, `printDynArr`). Initial capacity = 2, doubles automatically when full. Each function is annotated with its time complexity.
+- **Problem 3 (Linear & Binary Search):** Implements `linearSearch`, iterative `binarySearch`, and `generateSortedArray` which produces `{0, 2, 4, ..., 2(n-1)}`. Tested on n = 10, 100, 1000 for both existing and non-existing targets, with both algorithms confirmed to return matching results.
+- **Problem 1, 3B and 4 (Written Analysis):** Contains Problem 1 Snippet A, B, and C (step-by-step T(n) derivation, Big-O classification, and best/worst case analysis for each snippet), Problem 3B (complexity comparison table and proof that minimum n = 3), and Problem 4 (12-call amortized trace, geometric series derivation for doubling vs arithmetic series for fixed-increment).
 
 ---
 
