@@ -7,7 +7,6 @@
 
 - **Name:** Zahwa Agroli
 - **Student ID:** 24/535089/TK/59335
-- **Department:** Electrical and Information Engineering, Universitas Gadjah Mada
 
 ---
 
